@@ -91,3 +91,11 @@ while (continuar == "sim")
 
 }
 
+Console.WriteLine("\n========= HISTÓRICO  ==========");
+
+    foreach (var item in historico)
+{
+    Console.WriteLine(item);
+
+}
+
