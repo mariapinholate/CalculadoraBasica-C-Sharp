@@ -50,7 +50,7 @@ while (continuar == "sim")
         else
         {
             resultado = (n1 / n2);
-            Console.WriteLine("A divisão é: {0}", resultado);
+            Console.WriteLine("A divisão é: {0:F2}", resultado);
             historico.Add($"{n1} / {n2} = {resultado}");
 
         }
