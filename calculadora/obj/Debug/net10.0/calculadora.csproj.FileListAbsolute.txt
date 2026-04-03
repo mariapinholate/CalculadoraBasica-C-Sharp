@@ -1,0 +1,14 @@
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\bin\Debug\net10.0\calculadora.exe
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\bin\Debug\net10.0\calculadora.deps.json
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\bin\Debug\net10.0\calculadora.runtimeconfig.json
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\bin\Debug\net10.0\calculadora.dll
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\bin\Debug\net10.0\calculadora.pdb
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\obj\Debug\net10.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\obj\Debug\net10.0\calculadora.AssemblyInfoInputs.cache
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\obj\Debug\net10.0\calculadora.AssemblyInfo.cs
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\obj\Debug\net10.0\calculadora.csproj.CoreCompileInputs.cache
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\obj\Debug\net10.0\calculadora.dll
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\obj\Debug\net10.0\refint\calculadora.dll
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\obj\Debug\net10.0\calculadora.pdb
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\obj\Debug\net10.0\calculadora.genruntimeconfig.cache
+C:\FACULDADE\DICIPLINAS\ATP\projetos\calculadora\obj\Debug\net10.0\ref\calculadora.dll
