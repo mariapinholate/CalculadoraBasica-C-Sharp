@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FACULDADE\\DICIPLINAS\\ATP\\projetos\\calculadora\\calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\maria\\CalculadoraBasica-C-Sharp\\calculadora\\calculadora.csproj",
       "projectName": "calculadora",
-      "projectPath": "C:\\FACULDADE\\DICIPLINAS\\ATP\\projetos\\calculadora\\calculadora.csproj",
+      "projectPath": "C:\\Users\\maria\\CalculadoraBasica-C-Sharp\\calculadora\\calculadora.csproj",
       "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-      "outputPath": "C:\\FACULDADE\\DICIPLINAS\\ATP\\projetos\\calculadora\\obj\\",
+      "outputPath": "C:\\Users\\maria\\CalculadoraBasica-C-Sharp\\calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"

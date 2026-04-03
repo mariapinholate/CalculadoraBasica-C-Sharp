@@ -59,8 +59,8 @@ while (continuar == "sim")
     else if (operador == "potencia")
     {
         resultado = Math.Pow(n1, n2);
-        Console.WriteLine("A potência é: {0:F2}", resultado);
-        historico.Add($" {n1} ^ {n2} = {resultado}");
+        Console.WriteLine($"A potência é: {resultado:F2}");
+        historico.Add($"{n1} ^ {n2} = {resultado:F2}");
     }
        
     else if (operador == "raiz")
@@ -73,7 +73,7 @@ while (continuar == "sim")
         {
             resultado = Math.Sqrt(n1);
             Console.WriteLine("A raiz é: {0:F2}", resultado);
-            historico.Add($"Raiz de {n1} = {resultado}");
+            historico.Add($"Raiz de {n1} = {resultado:F2}");
         }
     }
     else
